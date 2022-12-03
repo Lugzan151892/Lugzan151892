@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+---
+## About me:
+I,m Denis, FrontEnd JavaScript Developer. 
+- 🌱 I’m currently learning React and Vue.
+- 👯 Open to job offers.
+- 📫 How to reach me: [Telegram](https://img.shields.io/badge/Telegram-blue)
+
+
+
 <!--
 **Lugzan151892/Lugzan151892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
