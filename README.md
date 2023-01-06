@@ -9,9 +9,9 @@ I,m Denis, FrontEnd JavaScript Developer.
 
 ---
 You can see my project's below:
-React - https://github.com/Lugzan151892/react-burger
-Vue - https://github.com/Lugzan151892/Chess-on-Vue
-Vue - https://github.com/Lugzan151892/work-timer
+- React - https://github.com/Lugzan151892/react-burger
+- Vue - https://github.com/Lugzan151892/Chess-on-Vue
+- Vue - https://github.com/Lugzan151892/work-timer
 ---
 
 <img src='https://preview.redd.it/f06bdrfictf31.jpg?auto=webp&s=87fb86fbfa99bff736321e634798db5c2d9e0ae1' alt='Meme' style='height: 40vh; width: 30vw'>
