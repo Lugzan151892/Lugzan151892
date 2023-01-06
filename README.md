@@ -9,6 +9,7 @@ I,m Denis, FrontEnd JavaScript Developer.
 
 ---
 You can see my project's below:
+- JS OOP - https://github.com/Lugzan151892/mesto-project
 - React - https://github.com/Lugzan151892/react-burger
 - Vue - https://github.com/Lugzan151892/Chess-on-Vue
 - Vue - https://github.com/Lugzan151892/work-timer
