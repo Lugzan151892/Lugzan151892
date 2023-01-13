@@ -11,7 +11,7 @@ I,m Denis, FrontEnd JavaScript Developer.
 ### You can see my project's below:
 - JS OOP - https://github.com/Lugzan151892/mesto-project / Link on gh-pages - [Project Mesto JS](https://lugzan151892.github.io/mesto-project/) 
 - React - https://github.com/Lugzan151892/react-burger / Link on gh-pages - [React burger](https://lugzan151892.github.io/react-burger/)
-- React - https://github.com/Lugzan151892/route-editor / A little test-task SPA - [Route-editor](https://github.com/Lugzan151892/route-editor)
+- React - https://github.com/Lugzan151892/route-editor / A little test-task SPA - [Route-editor](https://lugzan151892.github.io/route-editor/)
 - Vue - https://github.com/Lugzan151892/Chess-on-Vue / Link on gh-pages - [Chess on VUE](https://lugzan151892.github.io/Chess-on-Vue/)
 - Vue - https://github.com/Lugzan151892/work-timer
 ---
