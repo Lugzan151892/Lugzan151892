@@ -13,7 +13,7 @@ I,m Denis, FrontEnd JavaScript Developer.
 - React - https://github.com/Lugzan151892/react-burger / Link on gh-pages - [React burger](https://lugzan151892.github.io/react-burger/)
 - React - https://github.com/Lugzan151892/route-editor / A little test-task SPA - [Route-editor](https://lugzan151892.github.io/route-editor/)
 - Vue - https://github.com/Lugzan151892/Chess-on-Vue / Link on gh-pages - [Chess on VUE](https://lugzan151892.github.io/Chess-on-Vue/)
-- Vue - https://github.com/Lugzan151892/work-timer
+- Vue - https://github.com/Lugzan151892/work-timer / Link on gh-pages - [Work-Learn-Timer VUE](https://lugzan151892.github.io/work-timer/)
 ---
 
 <img src='https://preview.redd.it/f06bdrfictf31.jpg?auto=webp&s=87fb86fbfa99bff736321e634798db5c2d9e0ae1' alt='Meme' style='height: 40vh; width: 30vw'>
