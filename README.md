@@ -3,7 +3,7 @@
 ---
 ## About me:
 I,m Denis, FrontEnd JavaScript Developer. 
-- 🌱 I’m currently learning React and Vue.
+- 🌱 React and Vue Developer.
 - 👯 Open to job offers.
 - 📫 How to reach me: <img src='https://img.shields.io/badge/Telegram-blue' alt='Telegram'> [@denis1518](https://t.me/@denis1518).
 
