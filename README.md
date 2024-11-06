@@ -8,8 +8,18 @@ I,m Denis, FrontEnd JavaScript Developer.
 - 📫 How to reach me: <img src='https://img.shields.io/badge/Telegram-blue' alt='Telegram'> [@denis1518](https://t.me/@denis1518).
 
 ---
-### You can see my project's below:
-- JS OOP - https://github.com/Lugzan151892/mesto-project / Link on gh-pages - [Project Mesto JS](https://lugzan151892.github.io/mesto-project/) 
+## You can see my project's below:
+
+### My current projects:
+#### In progress:
+- My game service, Nuxt + TS (in progress ...) - Repo: https://github.com/Lugzan151892/hunt-showdown / Link - [Hunter Service](https://hunter-service.fun/)
+- Backend for my game service, JAVA + Spring (in progress ...) - Repo: https://github.com/Lugzan151892/hunt-java-server
+#### Temporarily suspended:
+- Old backend for my game service, Python + Flask (suspended ...) - Repo: https://github.com/Lugzan151892/game_python_server
+- My second project, VUE + TS (temporarily suspended) - Repo: https://github.com/Lugzan151892/restaurant-picker
+- Backend for my second project, JAVA + Spring (temporarily suspended) - Repo: https://github.com/Lugzan151892/restaurants-picker-backend
+  
+### My old, inactive or completed projects:
 - React - https://github.com/Lugzan151892/react-burger / Link on gh-pages - [React burger](https://lugzan151892.github.io/react-burger/)
 - React - https://github.com/Lugzan151892/route-editor / A little test-task SPA - [Route-editor](https://lugzan151892.github.io/route-editor/)
 - Vue - https://github.com/Lugzan151892/Chess-on-Vue / Link on gh-pages - [Chess on VUE](https://lugzan151892.github.io/Chess-on-Vue/)
