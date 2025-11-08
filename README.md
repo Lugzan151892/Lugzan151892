@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Denis — Frontend JavaScript Developer  
-# 👋 Привет, я Денис — Frontend JavaScript разработчик
+# 👋 Hi, I'm Denis — Frontend TypeScript Developer  
+# 👋 Привет, я Денис — Frontend TypeScript разработчик
 
 🚀 Passionate about building modern, scalable, and clean web applications.  
 I focus on **(Vue / React / Next.js / Nuxt.js) + NestJS** stack, clean architecture, and developer experience.
@@ -78,13 +78,6 @@ Repos:
 - [Frontend Repo](https://github.com/Lugzan151892/hunt-showdown)  
 - [Backend Repo](https://github.com/Lugzan151892/hunt-java-server)
 
-### 🍽️ Restaurant Picker *(suspended)*
-**Stack:** Vue + TS + Java Spring  
-🍴 App for choosing and rating restaurants.  
-Repos:  
-- [Frontend](https://github.com/Lugzan151892/restaurant-picker)  
-- [Backend](https://github.com/Lugzan151892/restaurants-picker-backend)
-
 ---
 
 ## 🧩 Old Projects / Архивные проекты
@@ -123,6 +116,4 @@ Repos:
   <i>«Чистый код выглядит так, будто его писал человек, которому не всё равно.»</i>
 </p>
 
-<img src='https://preview.redd.it/f06bdrfictf31.jpg?auto=webp&s=87fb86fbfa99bff736321e634798db5c2d9e0ae1' alt='Meme' style='height: 40vh; width: 30vw'>
-- ⚡ Fun fact: ...
--->
+<img src='https://preview.redd.it/f06bdrfictf31.jpg?auto=webp&s=87fb86fbfa99bff736321e634798db5c2d9e0ae1' alt='Meme' style='height: 40vh; width: 30vw' align="center">
